@@ -1,5 +1,10 @@
 
+> Roadmap to becoming a .net developer in 2017
 
-> Roadmap to becoming a dotNet developer in 2017
-<embed src="https://github.com/saifaustcse/.net-developer-roadmap/blob/master/images/backend.pdf" width="500" height="375" type='application/pdf'>
-<iframe src="https://github.com/saifaustcse/.net-developer-roadmap/blob/master/images/backend.pdf" style="width:718px; height:700px;" frameborder="0"></iframe>
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a .net backend developer. I made these charts inspired from https://github.com/kamranahmedse/developer-roadmap for sharing my knowlegdge with others and learn form others.
+
+If you think that these can be improved in anyway, please do suggest.
+
+## .net back-end Roadmap
+
+![](https://github.com/saifaustcse/.net-developer-roadmap/blob/master/images/backend.png)
