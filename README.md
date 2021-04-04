@@ -38,7 +38,6 @@ If you like or are using this project to learn or start your solution, please gi
 
 4. Desktop Application frameworks
 
-    - [Desktop app technologies](https://docs.microsoft.com/en-us/windows/win32/desktop-app-technologies)
     - [WPF](https://docs.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page)
     - [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
 
@@ -49,9 +48,9 @@ If you like or are using this project to learn or start your solution, please gi
 
 6. Web Application frameworks
 
+    - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
     - [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
     - [ASP.NET Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/)
-    - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
 
 7. Client Side Frameworks
 
@@ -64,7 +63,7 @@ If you like or are using this project to learn or start your solution, please gi
 
     - [Web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
     - [ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/)
-    - [ASP.NET Web API](https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial)
+    - [ASP.NET WCF](https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial)
 
 9. Client-Server Communication
 
@@ -91,11 +90,11 @@ If you like or are using this project to learn or start your solution, please gi
 12. Databases
 
     1. Relational
-        1. [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
-        2. [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
-        3. [MySQL](https://www.mysql.com)
-        4. [PostgreSQL](https://www.postgresql.org)
-        5. [MariaDB](https://mariadb.org)
+        - [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
+        - [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
+        - [MySQL](https://www.mysql.com) 
+        - [PostgreSQL](https://www.postgresql.org)
+        - [MariaDB](https://mariadb.org)
     2. Cloud Databases
         - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
         - [DynamoDB](https://aws.amazon.com/dynamodb)
