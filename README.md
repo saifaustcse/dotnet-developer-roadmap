@@ -20,95 +20,53 @@ If you like or are using this project to learn or start your solution, please gi
 
 1. Learn the prerequisites
 
-    - [C#](https://www.pluralsight.com/paths/csharp)
-    - [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5)
-    - [Entity Framework](https://www.pluralsight.com/search?q=entity%20framework%20core)
-    - [Dapper](https://github.com/StackExchange/Dapper)
-    - [NHibernate](https://github.com/nhibernate/nhibernate-core)
-    - [ASP.NET Core](https://www.pluralsight.com/search?q=asp.net%20core)
-    - [SQL Fundamentals](https://www.w3schools.com/sql/sql_intro.asp)
+    - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+    - [SQL Fundamentals](https://www.w3schools.com/sql/)
+    - [HTML](https://www.w3schools.com/html/)
+    - [CSS](https://www.w3schools.com/css/)
+    - [JavaScript](https://www.w3schools.com/js/)
+    - [.NET](https://docs.microsoft.com/en-us/documentation/)
+    - [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 
-2. General Development Skills
+2. OOP Fundamentals
 
-    - Learn GIT, create a few repositories on GitHub, share your code with other people
-    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-    - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com)
-    - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
-    - Read a few books about algorithms and data structures
+    - [OOP C# Fundamentals](https://www.w3schools.com/cs/cs_oop.asp)
 
-3. ASP.NET Core Basics
-
-    - [MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
-    - [REST](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
-    - [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio)
-    - [Razor Components](https://docs.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-5.0)
-    - [Middlewares](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-5.0)
-    - [Filters & Attributes](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-5.0)
-    - [Application Settings & Configurations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
-    - [Authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-5.0)
-    - [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-5.0)
-
-4. SOLID
+3. SOLID principles
 
     - [solid design principles](https://dotnettutorials.net/course/solid-design-principles/)
 
-5. Dependency Injection
+4. Desktop Application frameworks
 
-    1. [Dependency Injection](https://dotnettutorials.net/lesson/dependency-injection-design-pattern-csharp/)
+    - [Desktop app technologies](https://docs.microsoft.com/en-us/windows/win32/desktop-app-technologies)
+    - [WPF](https://docs.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page)
+    - [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
 
-    2. DI Containers
+5. Mobile Application/Game development
 
-        - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/aspnet/core/fundamentals/dependency-injection)
-        - [AutoFac](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)
-        - [Ninject](http://www.ninject.org)
-        - [Castle Windsor](https://github.com/castleproject/Windsor)
-        - [Simple Injector](https://github.com/simpleinjector/SimpleInjector)
+    - [Cross-platform mobile development in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/cross-platform/cross-platform-mobile-development-in-visual-studio?view=vs-2019)
+    - [xamarin](https://docs.microsoft.com/en-us/xamarin/?view=vs-2019)
 
-    3. [Life Cycles](https://docs.microsoft.com/aspnet/core/fundamentals/dependency-injection#service-lifetimes)
-    4. [Scrutor](https://github.com/khellang/Scrutor)
+6. Web Application frameworks
 
-6. Databases
+    - [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
+    - [ASP.NET Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/)
+    - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
 
-    1. Relational
-        1. [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
-        2. [PostgreSQL](https://www.postgresql.org)
-        3. [MariaDB](https://mariadb.org)
-        4. [MySQL](https://www.mysql.com)
-    2. Cloud Databases
-        - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
-        - [DynamoDB](https://aws.amazon.com/dynamodb)
-    3. NoSQL
-        - [Redis](https://redis.io)
-        - [MongoDB](https://docs.microsoft.com/aspnet/core/tutorials/first-mongo-app)
-        - [Apache Cassandra](http://cassandra.apache.org)
-        - [LiteDB](https://github.com/mbdavid/LiteDB)
-        - [RavenDB](https://github.com/ravendb/ravendb)
-        - [CouchDB](http://couchdb.apache.org)
+7. Client Side Frameworks
 
-7. Caching
+    - [Reactjs](https://reactjs.org/)
+    - [vuejs](https://vuejs.org/)
+    - [Angular](https://angular.io/)
+    - [AngularJs](https://angularjs.org/)
 
-    1. [Memory Cache](https://docs.microsoft.com/aspnet/core/performance/caching/memory)
-    2. [Distributed Cache](https://docs.microsoft.com/aspnet/core/performance/caching/distributed)
-        1. [Redis](https://redis.io/)
-            1. [StackExchange.Redis](https://stackexchange.github.io/StackExchange.Redis)
-            2. [EasyCaching](https://github.com/dotnetcore/EasyCaching)
-        2. [Memcached](https://memcached.org)
-    3. Entity Framework 2nd Level Cache
-        1. [EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)
-        2. [EntityFrameworkCore.Cacheable](https://github.com/SteffenMangold/EntityFrameworkCore.Cacheable)
+8. Web Service frameworks
 
-8. Logging
+    - [Web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
+    - [ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/)
+    - [ASP.NET Web API](https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial)
 
-    1. Log Frameworks
-        - [Serilog](https://github.com/serilog/serilog)
-        - [NLog](https://github.com/NLog/NLog)
-    2. Log Management System
-        - [ELK Stack](https://www.elastic.co/what-is/elk-stack)
-        - [Sentry.io](http://sentry.io)
-        - [Loggly.com](https://loggly.com)
-        - [Elmah.io](http://elmah.io)
-
-9. API Clients & Communications
+9. Client-Server Communication
 
     1. REST
         - [OData](https://devblogs.microsoft.com/odata/experimenting-with-odata-in-asp-net-core-3-1)
@@ -123,7 +81,71 @@ If you like or are using this project to learn or start your solution, please gi
 -   [SignalR](https://docs.microsoft.com/aspnet/core/signalr)
 -   [WebSockets](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets)
 
-13. Unit Testing
+11. ORM
+
+    -   [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+    -   [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+    -   [Dapper](https://github.com/StackExchange/Dapper)
+    -   [NHibernate](https://github.com/nhibernate/nhibernate-core)
+
+12. Databases
+
+    1. Relational
+        1. [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
+        2. [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
+        3. [MySQL](https://www.mysql.com)
+        4. [PostgreSQL](https://www.postgresql.org)
+        5. [MariaDB](https://mariadb.org)
+    2. Cloud Databases
+        - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
+        - [DynamoDB](https://aws.amazon.com/dynamodb)
+    3. NoSQL
+        - [Redis](https://redis.io)
+        - [MongoDB](https://docs.microsoft.com/aspnet/core/tutorials/first-mongo-app)
+        - [Apache Cassandra](http://cassandra.apache.org)
+        - [LiteDB](https://github.com/mbdavid/LiteDB)
+        - [RavenDB](https://github.com/ravendb/ravendb)
+        - [CouchDB](http://couchdb.apache.org)
+
+13. Dependency Injection
+
+    1. [Dependency Injection](https://dotnettutorials.net/lesson/dependency-injection-design-pattern-csharp/)
+
+    2. DI Containers
+
+        - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/aspnet/core/fundamentals/dependency-injection)
+        - [AutoFac](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)
+        - [Ninject](http://www.ninject.org)
+        - [Castle Windsor](https://github.com/castleproject/Windsor)
+        - [Simple Injector](https://github.com/simpleinjector/SimpleInjector)
+
+    3. [Life Cycles](https://docs.microsoft.com/aspnet/core/fundamentals/dependency-injection#service-lifetimes)
+    4. [Scrutor](https://github.com/khellang/Scrutor)
+
+14. Caching
+
+    1. [Memory Cache](https://docs.microsoft.com/aspnet/core/performance/caching/memory)
+    2. [Distributed Cache](https://docs.microsoft.com/aspnet/core/performance/caching/distributed)
+        1. [Redis](https://redis.io/)
+            1. [StackExchange.Redis](https://stackexchange.github.io/StackExchange.Redis)
+            2. [EasyCaching](https://github.com/dotnetcore/EasyCaching)
+        2. [Memcached](https://memcached.org)
+    3. Entity Framework 2nd Level Cache
+        1. [EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)
+        2. [EntityFrameworkCore.Cacheable](https://github.com/SteffenMangold/EntityFrameworkCore.Cacheable)
+
+15. Logging
+
+    1. Log Frameworks
+        - [Serilog](https://github.com/serilog/serilog)
+        - [NLog](https://github.com/NLog/NLog)
+    2. Log Management System
+        - [ELK Stack](https://www.elastic.co/what-is/elk-stack)
+        - [Sentry.io](http://sentry.io)
+        - [Loggly.com](https://loggly.com)
+        - [Elmah.io](http://elmah.io)
+
+16. Unit Testing
 
     1. Frameworks
         - [xUnit](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-dotnet-test)
@@ -137,7 +159,13 @@ If you like or are using this project to learn or start your solution, please gi
         - [FluentAssertion](https://github.com/fluentassertions/fluentassertions)
         - [Shouldly](https://github.com/shouldly/shouldly)
 
-14. Design-Patterns
+17. Security
+
+    -   [Application Settings & Configurations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
+    -   [Authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-5.0)
+    -   [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-5.0)
+
+18. Design-Patterns
 
     -   [Design Patterns](https://dotnettutorials.net/course/dot-net-design-patterns/)
 
@@ -152,7 +180,6 @@ Idea from : [Developer RoadMap](https://github.com/kamranahmedse/developer-roadm
 If you want to contribute to this project to make it more helpful for other Angular developers, your help is very welcome!
 
 Just file an issue, better yet: submit a PR! 🙂
-
 
 ## License
 
