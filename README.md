@@ -54,9 +54,9 @@ If you like or are using this project to learn or start your solution, please gi
 
 7. Client Side Frameworks
 
-    - [Reactjs](https://reactjs.org/)
-    - [vuejs](https://vuejs.org/)
-    - [Angular](https://angular.io/)
+    - [React Developer Roadmap](https://github.com/saifaustcse/react-developer-roadmap)
+    - [vue Developer Roadmap](https://github.com/saifaustcse/vue-developer-roadmap)
+    - [Angular Developer Roadmap](https://github.com/saifaustcse/angular-developer-roadmap)
     - [AngularJs](https://angularjs.org/)
 
 8. Web Service frameworks
@@ -92,7 +92,7 @@ If you like or are using this project to learn or start your solution, please gi
     1. Relational
         - [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
         - [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
-        - [MySQL](https://www.mysql.com) 
+        - [MySQL](https://www.mysql.com)
         - [PostgreSQL](https://www.postgresql.org)
         - [MariaDB](https://mariadb.org)
     2. Cloud Databases
