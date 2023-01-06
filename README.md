@@ -38,8 +38,8 @@ If you like or are using this project to learn or start your solution, please gi
 
 4. Desktop Application frameworks
 
-    - [WPF](https://docs.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page)
-    - [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
+    - [WPF](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0)
+    - [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-6.0)
 
 5. Mobile Application/Game development
 
@@ -48,7 +48,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 6. Web Application frameworks
 
-    - [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0)
+    - [ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-6.0)
     - [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
     - [ASP.NET Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/)
 
