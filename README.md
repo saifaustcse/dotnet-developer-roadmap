@@ -34,7 +34,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 3. SOLID principles
 
-   - [solid design principles](https://dotnettutorials.net/course/solid-design-principles/)
+   - [SOLID Design Principles in C#](https://dotnettutorials.net/course/solid-design-principles/)
 
 4. Desktop Application frameworks
 
