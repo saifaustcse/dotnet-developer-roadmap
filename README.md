@@ -43,8 +43,8 @@ If you like or are using this project to learn or start your solution, please gi
 
 5. Mobile Application/Game development
 
-   - [Cross-platform mobile development in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/cross-platform/cross-platform-mobile-development-in-visual-studio?view=vs-2019)
-   - [xamarin](https://docs.microsoft.com/en-us/xamarin/?view=vs-2019)
+   - [Cross-platform mobile development in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/cross-platform/cross-platform-mobile-development-in-visual-studio?view=vs-2022)
+   - [Xamarin](https://docs.microsoft.com/en-us/xamarin/?view=vs-2022)
 
 6. Web Application frameworks
 
