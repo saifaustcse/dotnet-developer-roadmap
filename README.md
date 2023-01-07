@@ -26,7 +26,7 @@ If you like or are using this project to learn or start your solution, please gi
    - [CSS](https://www.w3schools.com/css/)
    - [JavaScript](https://www.w3schools.com/js/)
    - [.NET](https://docs.microsoft.com/en-us/documentation/)
-   - [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+   - [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 
 2. OOP Fundamentals
 
@@ -61,7 +61,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 8. Web Service frameworks
 
-   - [Web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
+   - [Web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio)
    - [ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/)
    - [ASP.NET WCF](https://docs.microsoft.com/en-us/dotnet/framework/wcf/getting-started-tutorial)
 
@@ -160,9 +160,9 @@ If you like or are using this project to learn or start your solution, please gi
 
 17. Security
 
-    - [Application Settings & Configurations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
-    - [Authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-5.0)
-    - [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-5.0)
+    - [Application Settings & Configurations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-6.0)
+    - [Authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-6.0)
+    - [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-6.0)
 
 18. Design-Patterns
 
