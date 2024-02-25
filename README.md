@@ -21,6 +21,7 @@ If you like or are using this project to learn or start your solution, please gi
 1. Learn the prerequisites
 
    - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+   - [C# Bangla Video Tutorial](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF)
    - [SQL Fundamentals](https://www.w3schools.com/sql/)
    - [HTML](https://www.w3schools.com/html/)
    - [CSS](https://www.w3schools.com/css/)
@@ -31,10 +32,12 @@ If you like or are using this project to learn or start your solution, please gi
 2. OOP Fundamentals
 
    - [OOP C# Fundamentals](https://www.w3schools.com/cs/cs_oop.asp)
+   - [OOP C# Bangla Video Tutorial](https://www.youtube.com/playlist?list=PLqCbg_KAOnCe1RLKP2SVmSHZOCD-fWe3p)
 
 3. SOLID principles
 
    - [SOLID Design Principles in C#](https://dotnettutorials.net/course/solid-design-principles/)
+   - [SOLID Bangla Video Tutorial](https://www.youtube.com/watch?v=YIB-y6VRosc&t=114s)
 
 4. Desktop Application frameworks
 
